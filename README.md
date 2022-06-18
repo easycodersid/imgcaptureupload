@@ -7,7 +7,7 @@
 #### This repo uses the AWS SDK to connect with digital ocean spaces and uploads the image file selected using an AsyncTask in SpaceRegion.java. 🔗https://github.com/aws-amplify/aws-sdk-android
 
 #### Compatibility options
-#### compileOptions {
-####   sourceCompatibility JavaVersion.VERSION_1_8
-####   targetCompatibility JavaVersion.VERSION_1_8
-#### }
+##### compileOptions {
+#####   sourceCompatibility JavaVersion.VERSION_1_8
+#####   targetCompatibility JavaVersion.VERSION_1_8
+##### }
